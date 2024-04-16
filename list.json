@@ -2520,6 +2520,26 @@
     "file_link": "https://file.marioforever.net/Mario Forever/国外作品/FbdFeelingZ/Mario Forever 2023.rar"
   },
   {
+    "game": "Mario Worker: Letter Worlds Series",
+    "game_alt": "",
+    "ver": "World F (recompiled)",
+    "ver_alt": "",
+    "author": "TheMarioVariable",
+    "author_alt": "",
+    "type": "international",
+    "date": "2022/10/13",
+    "source": "YouTube",
+    "source_link": "https://www.youtube.com/watch?v=3w5rdSt5WY0",
+    "source_alt": "",
+    "source_link_alt": "",
+    "download_site": "MediaFire",
+    "download_link": "https://www.mediafire.com/file/o30bahy5hzsvf7r/Mario_Worker_-_F.exe/file",
+    "code": "",
+    "download_site_alt": "",
+    "download_link_alt": "",
+    "file_link": "https://file.marioforever.net/Mario Forever/国外作品/TheMarioVariable/Mario Worker - World F.exe"
+  },
+  {
     "game": "Mario Forever World MK",
     "game_alt": "",
     "ver": "v3.0",
@@ -8798,25 +8818,5 @@
     "download_site_alt": "",
     "download_link_alt": "",
     "file_link": "https://file.marioforever.net/Mario Forever/国内作品/2013/Mario Forever World 9.rar"
-  },
-  {
-    "game": "Mario Worker: Letters World Series - World F",
-    "game_alt": "",
-    "ver": "",
-    "ver_alt": "",
-    "author": "TheMarioVariable",
-    "author_alt": "",
-    "type": "international",
-    "date": "2012/2/27",
-    "source": "YouTube",
-    "source_link": "https://www.youtube.com/watch?v=3w5rdSt5WY0",
-    "source_alt": "",
-    "source_link_alt": "",
-    "download_site": "MediaFire",
-    "download_link": "https://www.mediafire.com/file/o30bahy5hzsvf7r/Mario_Worker_-_F.exe/file",
-    "code": "",
-    "download_site_alt": "",
-    "download_link_alt": "",
-    "file_link": "https://file.marioforever.net/Mario Forever/国外作品/TheMarioVariable/Mario Worker - World F.exe"
   }
 ]
