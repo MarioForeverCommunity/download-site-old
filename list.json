@@ -1,5 +1,25 @@
 [
   {
+    "game": "Mario Forever Structure World",
+    "game_alt": "",
+    "ver": "",
+    "ver_alt": "",
+    "author": "İlyas El Gourcifi",
+    "author_alt": "",
+    "type": "international",
+    "date": "2024/4/28",
+    "source": "YouTube",
+    "source_link": "https://www.youtube.com/watch?v=I3HeapDo-M8",
+    "source_alt": "",
+    "source_link_alt": "",
+    "download_site": "MediaFire",
+    "download_link": "https://www.mediafire.com/file/zcxhfa8ytodkb1c/Mario_Forever_Structure_World.zip/file",
+    "code": "",
+    "download_site_alt": "",
+    "download_link_alt": "",
+    "file_link": "https://file.marioforever.net/Mario Forever/国内作品/2019/Mario Forever Project Z V1.80.0 patched.zip"
+  },
+  {
     "game": "Mario Forever - Lunar New Year Tournament Krzychu World",
     "game_alt": "",
     "ver": "",
@@ -900,6 +920,26 @@
     "file_link": "https://file.marioforever.net/Mario Forever/国外作品/Mario Tube/Mario Forever Christmas Way.zip"
   },
   {
+    "game": "Mario Forever - World MK",
+    "game_alt": "",
+    "ver": "",
+    "ver_alt": "",
+    "author": "MrMikhy",
+    "author_alt": "",
+    "type": "international",
+    "date": "2023/12/23",
+    "source": "YouTube",
+    "source_link": "https://www.youtube.com/watch?v=3kJbyzogYPM",
+    "source_alt": "",
+    "source_link_alt": "",
+    "download_site": "MediaFire",
+    "download_link": "https://www.mediafire.com/file/i2i1o01ltav8cgd/Mario+Forever+-+World+MK.zip/file",
+    "code": "",
+    "download_site_alt": "",
+    "download_link_alt": "",
+    "file_link": "https://file.marioforever.net/Mario Forever/国外作品/MrMikhy/Mario Forever - World MK.zip"
+  },
+  {
     "game": "Mario Forever Tournament: 20th Anniversary Edition",
     "game_alt": "",
     "ver": "",
@@ -1038,6 +1078,26 @@
     "download_site_alt": "",
     "download_link_alt": "",
     "file_link": "https://file.marioforever.net/Mario Forever/国外作品/MarioT02/Mario Forever Infinity Tower.rar"
+  },
+  {
+    "game": "Mario Forever Adventures",
+    "game_alt": "",
+    "ver": "v0.5",
+    "ver_alt": "",
+    "author": "İlyas El Gourcifi",
+    "author_alt": "",
+    "type": "international",
+    "date": "2023/11/16",
+    "source": "YouTube",
+    "source_link": "https://www.youtube.com/watch?v=RMhJR1Vjnfc",
+    "source_alt": "",
+    "source_link_alt": "",
+    "download_site": "MediaFire",
+    "download_link": "https://www.mediafire.com/file/p817ovw4t4qf7bk/Mario_Forever_Adventures_-_Version_0.5.zip/file",
+    "code": "",
+    "download_site_alt": "",
+    "download_link_alt": "",
+    "file_link": "https://file.marioforever.net/Mario Forever/国外作品/İlyas El Gourcifi/Mario Forever Adventures - Version 0.5.zip"
   },
   {
     "game": "Mega Mole vs Dr WSW",
@@ -1937,7 +1997,7 @@
     "code": "",
     "download_site_alt": "",
     "download_link_alt": "",
-    "file_link": "https://file.marioforever.net/Mario Forever/国外作品/İlyas El Gourcifi/Mario Forever Adventures v0.4.rar"
+    "file_link": "https://file.marioforever.net/Mario Forever/国外作品/İlyas El Gourcifi/旧版/Mario Forever Adventures v0.4.rar"
   },
   {
     "game": "Mario Forever Season Collab - Spring",
@@ -2100,6 +2160,26 @@
     "file_link": "https://file.marioforever.net/Mario Forever/国外作品/MarioT02/Mario Forever King Piranha Boss Battle.rar"
   },
   {
+    "game": "Mario Forever Mario Vs Chara",
+    "game_alt": "",
+    "ver": "",
+    "ver_alt": "",
+    "author": "Turkish_bussines",
+    "author_alt": "",
+    "type": "international",
+    "date": "2023/3/26",
+    "source": "YouTube",
+    "source_link": "https://www.youtube.com/watch?v=MrHHgu1Kb10",
+    "source_alt": "",
+    "source_link_alt": "",
+    "download_site": "已失效",
+    "download_link": "https://www.mediafire.com/file/29uv6mwjawlabtq/Mario_Forever_Mario_VS_Chara.rar/file",
+    "code": "",
+    "download_site_alt": "",
+    "download_link_alt": "",
+    "file_link": "https://file.marioforever.net/Mario Forever/国外作品/Turkish_bussines/Mario Forever Mario VS Chara.rar"
+  },
+  {
     "game": "Mario Forever Road of Trophy",
     "game_alt": "",
     "ver": "",
@@ -2158,6 +2238,26 @@
     "download_site_alt": "",
     "download_link_alt": "",
     "file_link": "https://file.marioforever.net/Mario Forever/国外作品/İlyas El Gourcifi/MFCWS World Z Update 3.zip"
+  },
+  {
+    "game": "Mario Forever Legend",
+    "game_alt": "",
+    "ver": "v0.5 Beta",
+    "ver_alt": "",
+    "author": "Niikes studios",
+    "author_alt": "",
+    "type": "international",
+    "date": "2023/3/2",
+    "source": "YouTube",
+    "source_link": "https://www.youtube.com/watch?v=JXIAfivGCz4",
+    "source_alt": "",
+    "source_link_alt": "",
+    "download_site": "MediaFire",
+    "download_link": "https://www.mediafire.com/file/bm1mcicy5kn8aj6/Mario_Forever_Legend_0.5.zip/file",
+    "code": "",
+    "download_site_alt": "",
+    "download_link_alt": "",
+    "file_link": "https://file.marioforever.net/Mario Forever/国外作品/Niikes studios/Mario Forever Legend 0.5.zip"
   },
   {
     "game": "RGB",
