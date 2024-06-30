@@ -13,11 +13,11 @@
     "source_alt": "",
     "source_link_alt": "",
     "download_site": "百度网盘",
-    "download_link": "https://pan.baidu.com/s/1yIqWuwaHx9UR-_vy32hU8A",
-    "code": "rf6r",
+    "download_link": "https://pan.baidu.com/s/1cN4gzeDZz81r3ALjwr3jMg?pwd=mlqj",
+    "code": "mlqj",
     "download_site_alt": "",
     "download_link_alt": "",
-    "file_link": "https://file.marioforever.net/Mario Forever/国内作品/2024/Mario Forever：Mushroom Island TestDemo.zip"
+    "file_link": "https://file.marioforever.net/Mario Forever/国内作品/2024/Mario Forever：Mushroom Island二世界测试版.zip"
   },
   {
     "game": "Mario Forever - Horrible Night",
@@ -2633,11 +2633,11 @@
     "source_alt": "",
     "source_link_alt": "",
     "download_site": "百度网盘",
-    "download_link": "https://pan.baidu.com/s/1wDZ_NJ9OrLiTpDTtKZlAfQ",
-    "code": "n8gv",
+    "download_link": "https://pan.baidu.com/s/1cN4gzeDZz81r3ALjwr3jMg?pwd=mlqj",
+    "code": "mlqj",
     "download_site_alt": "",
     "download_link_alt": "",
-    "file_link": "https://file.marioforever.net/Mario Forever/国内作品/2023/马里奥幻想之旅New 简装.zip"
+    "file_link": "https://file.marioforever.net/Mario Forever/国内作品/2024/马里奥幻想之旅New.zip"
   },
   {
     "game": "马里奥幻想之旅New",
@@ -2653,11 +2653,11 @@
     "source_alt": "",
     "source_link_alt": "",
     "download_site": "MediaFire",
-    "download_link": "https://www.mediafire.com/file/e1wnix2d2orz0h5/Mario_Forever%25EF%25BC%259AMario_fantasy_tour.zip/file",
-    "code": "",
+    "download_link": "https://pan.baidu.com/s/1cN4gzeDZz81r3ALjwr3jMg?pwd=mlqj",
+    "code": "mlqj",
     "download_site_alt": "",
     "download_link_alt": "",
-    "file_link": "https://file.marioforever.net/Mario Forever/国内作品/2023/Mario Forever：Mario fantasy tour.zip"
+    "file_link": "https://file.marioforever.net/Mario Forever/国内作品/2024/Mario Forever：Mario fantasy tour.zip"
   },
   {
     "game": "Mario Forever: F-Series",
@@ -5641,11 +5641,11 @@
   },
   {
     "game": "Mario Forever: 马里奥幽灵大陆之旅",
-    "game_alt": "Mario Forever: Ghost Continent Tour",
-    "ver": "v1.7.0",
-    "ver_alt": "",
-    "author": "Ice Studio",
-    "author_alt": "",
+    "game_alt": "Mario's Journey to the Ghost Continent",
+    "ver": "中文版",
+    "ver_alt": "Chinese ver.",
+    "author": "面灵气酱",
+    "author_alt": "Ice Studio",
     "type": "chinese",
     "date": "2020/4/15",
     "source": "MF 社区",
@@ -5653,11 +5653,31 @@
     "source_alt": "",
     "source_link_alt": "",
     "download_site": "百度网盘",
-    "download_link": "https://pan.baidu.com/s/1UUCJGL216bgY8GCm8YLEOw",
-    "code": "h2bd",
+    "download_link": "https://pan.baidu.com/s/1cN4gzeDZz81r3ALjwr3jMg?pwd=mlqj",
+    "code": "mlqj",
     "download_site_alt": "",
     "download_link_alt": "",
-    "file_link": "https://file.marioforever.net/Mario Forever/国内作品/2020/马里奥幽灵大陆之旅.zip"
+    "file_link": "https://file.marioforever.net/Mario Forever/国内作品/2024/马里奥幽灵大陆之旅.zip"
+  },
+  {
+    "game": "Mario Forever: 马里奥幽灵大陆之旅",
+    "game_alt": "Mario's Journey to the Ghost Continent",
+    "ver": "英文版",
+    "ver_alt": "English ver.",
+    "author": "面灵气酱",
+    "author_alt": "Ice Studio",
+    "type": "chinese",
+    "date": "2020/4/15",
+    "source": "MF 社区",
+    "source_link": "https://www.marioforever.net/thread-414-1-1.html",
+    "source_alt": "",
+    "source_link_alt": "",
+    "download_site": "百度网盘",
+    "download_link": "https://pan.baidu.com/s/1cN4gzeDZz81r3ALjwr3jMg?pwd=mlqj",
+    "code": "mlqj",
+    "download_site_alt": "",
+    "download_link_alt": "",
+    "file_link": "https://file.marioforever.net/Mario Forever/国内作品/2024/Mario's journey to the ghost continent.zip"
   },
   {
     "game": "Mario Forever Remake Community Contest #1 RESULTS",
@@ -6584,8 +6604,8 @@
     "game_alt": "Mario Fantasy Tour",
     "ver": "",
     "ver_alt": "",
-    "author": "Ice Studio",
-    "author_alt": "",
+    "author": "面灵气酱",
+    "author_alt": "Ice Studio",
     "type": "chinese",
     "date": "2019/1/30",
     "source": "贴吧备份",
