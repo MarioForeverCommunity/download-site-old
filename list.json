@@ -1,5 +1,25 @@
 [
   {
+    "game": "Mario Forever - Party Worlds Reimagined",
+    "game_alt": "",
+    "ver": "Demo v0.4",
+    "ver_alt": "",
+    "author": "LooPeR231",
+    "author_alt": "",
+    "type": "international",
+    "date": "2024/8/1",
+    "source": "MF 社区",
+    "source_link": "https://www.marioforever.net/thread-3178-1-1.html",
+    "source_alt": "YouTube",
+    "source_link_alt": "https://www.youtube.com/watch?v=pLovlz16p9I",
+    "download_site": "Nextcloud",
+    "download_link": "https://rnx.su/s/Tb8aKdHgL2pZk4a",
+    "code": "",
+    "download_site_alt": "",
+    "download_link_alt": "",
+    "file_link": "https://file.marioforever.net/Mario Forever/国外作品/LooPeR231/0.4-win64.zip"
+  },
+  {
     "game": "Mario Forever Horizon",
     "game_alt": "",
     "ver": "v1.1.1",
@@ -298,26 +318,6 @@
     "download_site_alt": "",
     "download_link_alt": "",
     "file_link": "https://file.marioforever.net/Mario Forever/国内作品/2024/MF-DECA2.zip"
-  },
-  {
-    "game": "Mario Forever - Party Worlds Reimagined",
-    "game_alt": "",
-    "ver": "Demo v0.2b",
-    "ver_alt": "",
-    "author": "LooPeR231",
-    "author_alt": "",
-    "type": "international",
-    "date": "2024/7/6",
-    "source": "MF 社区",
-    "source_link": "https://www.marioforever.net/thread-3178-1-1.html",
-    "source_alt": "",
-    "source_link_alt": "",
-    "download_site": "Nextcloud",
-    "download_link": "https://rnx.su/s/JtoRkqnCCi467BC",
-    "code": "",
-    "download_site_alt": "",
-    "download_link_alt": "",
-    "file_link": "https://file.marioforever.net/Mario Forever/国外作品/LooPeR231/0.2b-win64.zip"
   },
   {
     "game": "Mario Forever - Horrible Night",
