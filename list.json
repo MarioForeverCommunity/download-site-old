@@ -1,5 +1,25 @@
 [
   {
+    "game": "Mario Forever: Mushroom Island",
+    "game_alt": "",
+    "ver": "v0.6.0",
+    "ver_alt": "",
+    "author": "面灵气酱",
+    "author_alt": "MLQJ",
+    "type": "chinese",
+    "date": "2024/9/6",
+    "source": "MF 社区",
+    "source_url": "https://www.marioforever.net/thread-3336-1-1.html",
+    "source_alt": "",
+    "source_url_alt": "",
+    "download_site": "百度网盘",
+    "download_url": "https://pan.baidu.com/s/1cN4gzeDZz81r3ALjwr3jMg?pwd=mlqj",
+    "code": "mlqj",
+    "download_site_alt": "",
+    "download_url_alt": "",
+    "file_url": "https://file.marioforever.net/Mario Forever/国内作品/2024/永远的马里奥：蘑菇岛 v0.6.0.zip"
+  },
+  {
     "game": "Mario Forever World 12",
     "game_alt": "",
     "ver": "v1.0 final",
