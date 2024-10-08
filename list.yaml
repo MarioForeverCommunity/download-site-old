@@ -1,4 +1,32 @@
 ---
+- game: Mario Forever - Decasamsara World 2
+  game_alt:
+  author: 马里奥X7
+  author_alt: MarioX7
+  type: chinese
+  wiki_zh_url:
+  wiki_en_url:
+  ver:
+  - Stage1测试版:
+      ver_alt: Stage1 Test
+      date: 2024-10-08
+      source_url: https://www.marioforever.net/thread-572-1-1.html
+      source_url_alt:
+      download_url: https://fuaisam.lanzouw.com/iZY3o2c16j1c
+      code: 2hbo
+      download_url_alt:
+      file_name: Deca2_Beta1.zip
+      file_url:
+  - 1-1 + 2-1预览版:
+      ver_alt: 1-1 + 2-1 preview
+      date: 2024-07-07
+      source_url: https://www.marioforever.net/thread-572-1-1.html
+      source_url_alt:
+      download_url: https://fuaisam.lanzouw.com/iJNVY23shb5c # 已失效
+      code:
+      download_url_alt:
+      file_name: MF-DECA2.zip
+      file_url:
 - game: Mario Forever - Mixed World
   game_alt:
   author: MJXXX
@@ -651,23 +679,6 @@
       download_url_alt:
       file_name: old-versions/Mario Forever Math Symbole Worlds Series v0.5.rar
       file_url:
-- game: Mario Forever - Decasamsara World 2
-  game_alt:
-  author: 马里奥X7
-  author_alt: MarioX7
-  type: chinese
-  wiki_zh_url:
-  wiki_en_url:
-  ver: 1-1 + 2-1预览版
-  ver_alt: 1-1 + 2-1 perview
-  date: 2024-07-07
-  source_url: https://www.marioforever.net/thread-572-1-1.html
-  source_url_alt:
-  download_url: https://fuaisam.lanzouw.com/iJNVY23shb5c
-  code:
-  download_url_alt:
-  file_name: MF-DECA2.zip
-  file_url:
 - game: Mario Forever Multiplayer
   game_alt:
   author: Heaven Team
