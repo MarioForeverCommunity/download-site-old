@@ -180,6 +180,44 @@
   download_url_alt:
   file_name: 永远的马里奥：蘑菇岛——秋的记忆.zip
   file_url:
+- game: Mario Forever Math Symbole World Series
+  game_alt:
+  author: Turkish_bussines
+  author_alt:
+  type: international
+  wiki_zh_url:
+  wiki_en_url:
+  ver:
+  - v1.6:
+      ver_alt:
+      date: 2024-09-30
+      source_url: https://www.youtube.com/watch?v=uD9wUfIU0QE
+      source_url_alt:
+      download_url: https://www.mediafire.com/file/xsbzfviv6pina4i/Mario_Forever_Math_Symbols_World_Series_v1.6.rar/file
+      code:
+      download_url_alt:
+      file_name: Mario Forever Math Symbole World Series v1.6.rar
+      file_url:
+  - v1.0:
+      ver_alt:
+      date: 2024-07-06
+      source_url: https://www.youtube.com/watch?v=lrVLkUqd5Cw
+      source_url_alt:
+      download_url: https://www.mediafire.com/file/bdzpvdil24b6sbv/Mario_Forever_Math_Symbole_Worlds_Series_v1.0.rar/file
+      code:
+      download_url_alt:
+      file_name: old-versions/Mario Forever Math Symbole Worlds Series v1.0.rar
+      file_url:
+  - v0.5:
+      ver_alt:
+      date: 2023-10-29
+      source_url: https://www.youtube.com/watch?v=d6q2CFp-xwM
+      source_url_alt:
+      download_url: https://www.mediafire.com/file/byivpwz3j83o4z2/Mario_Forever_Math_Symbole_Worlds_Series_v0.5.rar/file
+      code:
+      download_url_alt:
+      file_name: old-versions/Mario Forever Math Symbole Worlds Series v0.5.rar
+      file_url:
 - game: Mario Forever Ridiculous Journey
   game_alt:
   author: TNT与爬行者
@@ -668,34 +706,6 @@
   download_url_alt:
   file_name: mario-minix-rebirth.zip
   file_url:
-- game: Mario Forever Math Symbole Worlds Series
-  game_alt:
-  author: Turkish_bussines
-  author_alt:
-  type: international
-  wiki_zh_url:
-  wiki_en_url:
-  ver:
-  - v1.0:
-      ver_alt:
-      date: 2024-07-06
-      source_url: https://www.youtube.com/watch?v=lrVLkUqd5Cw
-      source_url_alt:
-      download_url: https://www.mediafire.com/file/bdzpvdil24b6sbv/Mario_Forever_Math_Symbole_Worlds_Series_v1.0.rar/file
-      code:
-      download_url_alt:
-      file_name: Mario Forever Math Symbole Worlds Series v1.0.rar
-      file_url:
-  - v0.5:
-      ver_alt:
-      date: 2023-10-29
-      source_url: https://www.youtube.com/watch?v=d6q2CFp-xwM
-      source_url_alt:
-      download_url: https://www.mediafire.com/file/byivpwz3j83o4z2/Mario_Forever_Math_Symbole_Worlds_Series_v0.5.rar/file
-      code:
-      download_url_alt:
-      file_name: old-versions/Mario Forever Math Symbole Worlds Series v0.5.rar
-      file_url:
 - game: Mario Forever Multiplayer
   game_alt:
   author: Heaven Team
