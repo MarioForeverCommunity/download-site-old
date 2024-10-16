@@ -1,0 +1,1 @@
+You are viewing an old version of [download.marioforever.net](https://download.marioforever.net/). All updates have been moved to [download-site-next repository](https://github.com/MarioForeverCommunity/download-site-next).
